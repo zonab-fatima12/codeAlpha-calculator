@@ -13,3 +13,5 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+- ![calculator screenshot]
+(calculator.png)
